@@ -1,4 +1,4 @@
-package com.carouselapp.twitter
+package com.app.twitter
 
 data class TwitterResponse(
     val url: String,

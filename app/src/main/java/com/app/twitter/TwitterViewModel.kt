@@ -1,4 +1,4 @@
-package com.carouselapp.twitter
+package com.app.twitter
 
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
